@@ -1,0 +1,20 @@
+html {
+    font-size: 21px;
+}
+
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+a {
+    color: cornflowerblue;
+}
+
+a:visited {
+    color: tomato;
+}
+
+a:hover, a:active {
+    color: dodgerblue;
+}
